@@ -1,0 +1,40 @@
+
+#pr{
+    padding-top: 100px;
+}
+img{
+    border:1px solid black;
+    border-radius: 50%;
+    height: 200px;
+    float: right;
+}
+span{
+    font-size: larger;
+    font-weight: 900;
+    
+}
+h1{
+    font-weight: lighter;
+}
+body{
+    background-color: antiquewhite;
+}
+#er{
+    color:blueviolet;
+    font-weight: 900;
+    font-size: large;
+}
+a{
+    display:inline;
+    padding-left: 10px; 
+    color:rgb(192, 128, 252);
+    text-decoration:line-through;
+    
+}
+#gh{
+    float:right;
+}
+header{
+    display:inline;
+}
+
